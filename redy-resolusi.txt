@@ -1,2 +1,5 @@
 belajar github untuk pemula 
 mendalami github
+melakukan analisis data 
+menjalan program html
+melakukan testing ketahanan 
